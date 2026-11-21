@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "MCP-Server",
+    "description": "Verwaltet die Server des MCP-Managers in den Einstellungen: Live-Verbindungsstatus, Neustart und Test sowie Hinzufügen, Bearbeiten, Deaktivieren und Löschen konfigurierter Server."
+  }
+}

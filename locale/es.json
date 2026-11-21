@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Servidores MCP",
+    "description": "Gestiona los servidores del gestor MCP desde Ajustes: estado de conexión en vivo, reinicio y prueba, y alta, edición, desactivación y baja de los servidores configurados."
+  }
+}

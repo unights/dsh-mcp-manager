@@ -1,0 +1,10 @@
+# dsh-mcp-servers bundle patch: inserts the bundle's anchor row into a profile.
+#
+# The Host bundle (dist/host.js) serves tool catalogues and isolated draft probes.
+# The browser bundle (dist/client.js) also uses the shipped MCP manager and
+# Settings Remotes for live status, restart and profile configuration.
+# `dsh.client` in package.json makes the web app load that module and register
+# the "MCP servers" page in the settings sidebar.
+- insert:
+    - id: mcp-servers
+      name: 'dsh-mcp-servers'

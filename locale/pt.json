@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Servidores MCP",
+    "description": "Gere os servidores do gestor MCP nas definições: estado da ligação em direto, reinício e teste, além de adicionar, editar, desativar e eliminar servidores configurados."
+  }
+}

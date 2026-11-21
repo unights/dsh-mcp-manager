@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Serveurs MCP",
+    "description": "Gère les serveurs du gestionnaire MCP depuis les réglages : état de connexion en direct, redémarrage et test, ainsi que l’ajout, la modification, la désactivation et la suppression des serveurs configurés."
+  }
+}

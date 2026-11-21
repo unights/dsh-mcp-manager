@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "MCP servers",
+    "description": "Manages the MCP manager's server fleet from Settings: live connection status, restart and probe, plus add, edit, disable and delete for configured servers."
+  }
+}
